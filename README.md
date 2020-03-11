@@ -1,1 +1,1 @@
-# paper-notes
+# Paper Notes
