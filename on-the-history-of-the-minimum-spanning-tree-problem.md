@@ -1,0 +1,7 @@
+# On the History of the Minimum Spanning Tree Problem
+
+*By Ronald L. Graham and Pavol Hell*
+
+*On the History of the Minimum Spanning Tree Problem*, developed by Ronald L. Graham and Pavol Hell takes a deep dive into a particular problem that has been studied for a long time in the area of graph theory. This problem is the Minimum Spanning Tree Problem (MSTP), one of the quintessential problems in combinatorial optimization. With their paper, they analyze three different algorithms aimed at solving the problem, and they then go on to discuss the three. They also present a very well-crafted discussion regarding the original masterminds behind these original algorithms, showing where these algorithms came from. Finally, they conclude by analyzing the complexity of some of these algorithms, followed by a short discussion regarding what these algorithms are best suited for situationally.
+
+Personally, I am not sure if there is much more further research needed on this subject. After all, the paper was published in 1985, so there definitely have been a lot of new developments in the past 35 years. A lot of our technologies today depend on the MSTP, such as finding a route via GPS, or routing. However, my inexperience in this area should not be a sentence. There is most likely more research that can be done, and I am excited to continue my academic experience in algorithm design and analysis to be able to learn more about graph theory.
