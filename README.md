@@ -5,3 +5,4 @@ This repository includes my notes from many of the papers I've come across throu
 * [*Big Omicron and Big Omega and Big Theta*](/big-omicron-and-big-omega-and-big-theta.md) by Donald E. Knuth
 * [*Energy-Efficient Algorithms*](/energy-efficient-algorithms.md) by Erik D. Domaine, Jayson Lynch, Geronimo J. Mirano, and Nirvan Tyagi
 * [*Natural Algorithms for Flow Problems*](/natural-algorithms-for-flow-problems.md/) by Damian Straszak and Nisheeth K. Vishnoi
+* [*On the History of the Minimum Spanning Tree Problem*]() by Ronald L. Graham and Pavol Hell
