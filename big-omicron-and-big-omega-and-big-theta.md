@@ -1,2 +1,7 @@
+# Big Omicron and Big Omega and Big Theta
+
+## By Donald E. Knuth
+
 In contrast to many papers in the field, Big Omicron and Big Omega and Big Theta, written by Donald E. Knuth in 1976, is more concerned by defining various notations used to measure the complexity of algorithms. In his paper, Knuth sets out to define the notations of O(f(n)), Ω(f(n)), and Θ(f(n)). O(f(n)) can be defined as “order of at most f(n),” while Ω(f(n)) can be defined as “order of at least f(n),” and Θ(f(n)) as “order of exactly f(n) (Knuth 19). Knuth then continues to analyze various relational notations by other writers in the field, such as Paul du Bois-Reymond, G. H. Hardy, and I. M. Vinogradov. Finally, he concludes by commenting on the use of these notations, arguing that the notations of O, Ω, and Θ should be more widely adopted unless better alternatives are proposed.
+
 Finally, the ideas presented in this paper pose some fascinating questions that I believe can be answered with further research. For example, it would be very interesting to see just how widespread these notations are. As I continue my studies in computer science, it is evident that O has become the most widely-used. Also, I would like to see how more recent writers define these notations now. An analysis of their similarities and differences could shed some light as to how these notations have changed over the years. I believe that this future research could bring some interesting insights.
