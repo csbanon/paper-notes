@@ -1,1 +1,6 @@
 # A Survey of Dynamic Programming Computational Procedures
+*By Robert E. Larson*
+
+*A Survey of Dynamic Programming Computational Procedures*, published by Robert E. Larson in 1967, aims to provide various new promising dynamic programming techniques. These techniques are known for reducing computational requirements when contrasted with the standard computational algorithm. The paper begins by discussing the fundamentals of dynamic programming, including the problem formulation for the deterministic case, the derivation of the basic iterative functional equation, and a formal definition of the standard computational algorithm. It then continues by surveying various new computational procedures, dividing them in four categories. Finally, it provides applications for many of these procedures, and concludes by giving a quick insight on how these could be used in the future.
+
+Nonetheless, I am very curious to see the current state of these “new” procedures that were surveyed in the paper, as it was written more than 50 years ago. At the end of the paper it states that these procedures would lead to a much wider use of many of these approaches in the industry, so I’d be very interested in some research that looks into how these are used today.
