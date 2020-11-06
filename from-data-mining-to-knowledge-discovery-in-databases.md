@@ -1,4 +1,5 @@
-# "From Data Mining to Knowledge Discovery in Databases"
+# From Data Mining to Knowledge Discovery in Databases
+***By Usama Fayyad, Gregory Piatetsky-Shapiro, and Padhraic Smyth***
 
 Written in 1996 by Usama Fayyad, Gregory Piatetsky-Shapiro, and Padhraic Smyth, "From Data Mining to Knowledge Discovery in Databases" provides further insight into the world of data science. The main purpose of this academic article is to clarify the relationship between data mining and the concept of knowledge discovery, providing a detailed description of the Knowledge Discovery in Databases (KDD) process along the way. The result is a very thorough overview of KDD, its role, and potential issues.
 
