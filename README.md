@@ -1,6 +1,6 @@
 # Paper Notes
 
-This repository includes my notes from many of the papers I've come across throughout my studies in computer science.
+This repository includes my notes from some of the papers I've come across throughout my studies in computer science.
 
 ## Machine Learning
 
